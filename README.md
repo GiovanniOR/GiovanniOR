@@ -8,7 +8,7 @@ Actualmente estoy ampliando mis conocimientos y trabajando en nuevos proyectos c
 
 ## 🎮 Proyectos destacados
 
-### 🔫 Pong Shooter    
+### 🔫 Pong Warfare   
 Juego competitivo 1v1 basado en el clásico Pong, con mecánicas de disparo y sistema de vidas.  
 - Hecho con **Godot 4.3**  
 - Modo local, mecánica de rebote-bala  
@@ -38,7 +38,7 @@ Proyecto experimental de combate.
 
 ## 🚧 En desarrollo
 
-- 🔸 **Pong Shooter v0.2**: mejoras de gameplay, efectos visuales, y mecánicas nuevas.  
+- 🔸 **Pong Warfare v0.2**: mejoras de gameplay, efectos visuales, y mecánicas nuevas.  
 - 🔸 **Light novel interactiva** con estética narrativa y mecánicas ligeras.  
 - 🔸 Exploración de proyecto tipo **Fire Emblem** táctico basado en un universo original.
 
